@@ -2,6 +2,10 @@
 
 `RnSlideButton` is a customizable React Native component for implementing a sliding button with an optional icon. It features smooth animations and various customization options for the button’s appearance. It requires `zero dependencies` and works out of the box.
 
+## Demo
+
+![Demo](https://raw.githubusercontent.com/dreamcatcher45/RnSlideButton/main/Demo.gif)
+
 
 ## Usage
 
