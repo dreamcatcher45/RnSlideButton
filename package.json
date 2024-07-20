@@ -1,0 +1,39 @@
+{
+  "name": "rnslidebutton",
+  "version": "1.0.0",
+  "description": "RnSlideButton is a customizable React Native component for implementing a sliding button. It features smooth animations and various customization options for the button’s appearance. It requires zero dependencies and works out of the box.",
+  "main": "RnSlideButton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamcatcher45/RnSlideButton.git"
+  },
+  "keywords": [
+    "react-native",
+    "slide-button",
+    "slider",
+    "slide-to-confirm",
+    "custom-button",
+    "react-native-slider",
+    "interactive-button",
+    "animated-button",
+    "sliding-component",
+    "react-native-components",
+    "slide-action",
+    "react-native-ui",
+    "button-animation",
+    "react-native-ui-kit",
+    "gesture-button",
+    "draggable-button",
+    "RnSlideButton",
+    "rn-slide-button"
+  ],
+  "author": "dreamcatcher45",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dreamcatcher45/RnSlideButton/issues"
+  },
+  "homepage": "https://github.com/dreamcatcher45/RnSlideButton#readme"
+}
