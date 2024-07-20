@@ -14,7 +14,7 @@ Here's a basic example of how to use the `RnSlideButton` component:
 ```jsx
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
-import RnSlideButton from './RnSlideButton'; 
+import RnSlideButton from 'rn-slider-button/RnSlideButton'; 
 
 const App = () => {
   const handleSlideComplete = () => {
