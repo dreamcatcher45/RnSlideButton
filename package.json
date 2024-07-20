@@ -1,6 +1,6 @@
 {
   "name": "rn-slider-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RnSlideButton is a customizable React Native component for implementing a sliding button. It features smooth animations and various customization options for the button’s appearance. It requires zero dependencies and works out of the box.",
   "main": "RnSlideButton.js",
   "scripts": {
